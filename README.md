@@ -1,7 +1,7 @@
 # Puzzle-Swap-SpotPass-BOSS
 These are edited SpotPass BOSS files for the 3DS game StreetPass Mii Plaza "Puzzle Swap" that contains all the puzzles with different IDs
 
-Thanks to tastymeatball and his website http://wiiucodes.ddnss.eu/
+
 
 How to Install:
 
@@ -20,3 +20,6 @@ Go back to FBI's main menu and click EXT Save data
 Click Mii Plaza then browse SpotPass data
 
 Click <current directory> and click paste  (You'll need to replace all files)
+
+
+Thanks to tastymeatball and his website http://wiiucodes.ddnss.eu/
