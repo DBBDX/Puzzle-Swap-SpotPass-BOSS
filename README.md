@@ -22,4 +22,4 @@ Click Mii Plaza then browse SpotPass data
 Click <current directory> and click paste  (You'll need to replace all files)
 
 
-Thanks to tastymeatball and his website http://wiiucodes.ddnss.eu/
+Thanks to tastymeatball and his website http://wiiucodes.ddnss.eu/ to access needs a IPv6 (use Cloudflare IPv6 gateway https://one.one.one.one/)
