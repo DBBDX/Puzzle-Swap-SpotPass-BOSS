@@ -3,11 +3,19 @@ These are edited SpotPass BOSS files for the 3DS game StreetPass Mii Plaza "Puzz
 
 This BOSS data contains:
 
-All Puzzles available on EUR Mii Plaza (Tomodachi Life Friendship Fiesta)
-Unique JPN Puzzles (Daigasso! Band Brothers P / Rusty's Real Deal Baseball)
-Unique USA Puzzles (Rusty's Real Deal Baseball)
-Unique KOR Puzzles (Rusty's Real Deal Baseball)
-With a total of 1824 puzzle pieces only missing the limited-time events
+-All Puzzles available on EUR Mii Plaza (Tomodachi Life Friendship Fiesta)
+
+-Unique JPN Puzzles (Daigasso! Band Brothers P / Rusty's Real Deal Baseball)
+
+-Unique USA Puzzles (Rusty's Real Deal Baseball)
+
+-Unique KOR Puzzles (Rusty's Real Deal Baseball)
+
+-With a total of 1824 puzzle pieces only missing the limited-time events
+
+
+Thanks to tastymeatball for the original EU file and help, you can see more on his website http://wiiucodes.ddnss.eu to access needs a IPv6 (use Cloudflare IPv6 gateway https://one.one.one.one/)
+
 
 How to Install:
 
@@ -28,4 +36,4 @@ Click Mii Plaza then browse SpotPass data
 Click <current directory> and click paste  (You'll need to replace all files)
 
 
-Thanks to tastymeatball for the original EU file and help, you can see more on his website http://wiiucodes.ddnss.eu to access needs a IPv6 (use Cloudflare IPv6 gateway https://one.one.one.one/)
+
