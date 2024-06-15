@@ -5,7 +5,7 @@ These are edited SpotPass BOSS files for the 3DS game StreetPass Mii Plaza "Puzz
 
 How to Install:
 
-You need to use the one that match with your Mii Plaza region
+Go to releases and download the file from the same region that your Mii Plaza
 
 Ensure StreetPass & SpotPass are enabled in Mii plaza
 
