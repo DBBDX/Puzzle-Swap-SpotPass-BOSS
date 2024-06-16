@@ -1,4 +1,4 @@
-# Puzzle-Swap-SpotPass-BOSS
+ # Puzzle-Swap-SpotPass-BOSS
 These are edited SpotPass BOSS files for the 3DS game StreetPass Mii Plaza "Puzzle Swap" that contains all the puzzles with different IDs
 
 This BOSS data contains:
@@ -17,7 +17,7 @@ This BOSS data contains:
 Thanks to tastymeatball for the original EU file and help, you can see more on his website http://wiiucodes.ddnss.eu to access needs a IPv6 (use Cloudflare IPv6 gateway https://one.one.one.one/)
 
 
-###How to Install:
+### How to Install:
 
 Go to releases and download the file from the same region that your Mii Plaza
 
