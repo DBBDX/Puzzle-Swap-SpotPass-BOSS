@@ -33,7 +33,7 @@ Go back to FBI's main menu and click EXT Save data
 
 Click Mii Plaza then browse SpotPass data
 
-Click <current directory> and click paste  (You'll need to replace all files)
+Click <current directory> and click paste  (Replace all files if asked)
 
 
 
