@@ -27,13 +27,13 @@ Copy files to a new folder on the SD card, let's call it "Spotpass Data"
 
 Go to FBI and select SD then go to the folder you copied
 
-Click <current directory> and click copy all contents
+Select current directory and then copy all contents
 
-Go back to FBI's main menu and click EXT Save data
+Go back to FBI's main menu and select EXT Save data
 
-Click Mii Plaza then browse SpotPass data
+Search for StreetPass Mii Plaza then browse SpotPass data
 
-Click <current directory> and click paste  (Replace all files if asked)
+Select current directory and then paste (Replace all files if asked)
 
 
 
