@@ -11,7 +11,7 @@ This BOSS data contains:
 
 -Unique KOR Puzzles (Rusty's Real Deal Baseball)
 
--With a total of 1824 puzzle pieces only missing the limited-time events
+-With a total of 1833 puzzle pieces + 45 limited-time events puzzles pieces 
 
 
 Thanks to tastymeatball for the original EU file and help, you can see more on his website http://wiiucodes.ddnss.eu to access needs a IPv6 (use Cloudflare IPv6 gateway https://one.one.one.one/)
