@@ -17,7 +17,7 @@ This BOSS data contains:
 Thanks to tastymeatball for the original EU file and help, you can see more on his website http://wiiucodes.ddnss.eu to access needs a IPv6 (use Cloudflare IPv6 gateway https://one.one.one.one/)
 
 
-### How to Install:
+# How to Install:
 
 Go to releases and download the file from the same region that your Mii Plaza
 
@@ -35,5 +35,5 @@ Search for StreetPass Mii Plaza then browse SpotPass data
 
 Select current directory and then paste (Replace all files if asked)
 
-
+### For any questions or more info, you can check this Discord server https://discord.gg/tZ96bgM9uT
 
