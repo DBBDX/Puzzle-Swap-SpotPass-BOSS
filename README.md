@@ -1,29 +1,29 @@
  # Puzzle-Swap-SpotPass-BOSS
-These are edited SpotPass BOSS files for the 3DS game StreetPass Mii Plaza "Puzzle Swap" that contains all the puzzles with different IDs
+Edited SpotPass BOSS files for the Nintendo 3DS game StreetPass Mii Plaza: *Puzzle Swap* 
 
-This BOSS data contains:
+Includes **all available puzzles** with unique IDs
 
--All Puzzles available on EUR Mii Plaza (Tomodachi Life Friendship Fiesta)
+`BOSS data:`
 
--Unique JPN Puzzles (Daigasso! Band Brothers P / Rusty's Real Deal Baseball)
+`- 3 unique limited-time event puzzle IDs (ANAでDS / マックでDS ビッグマック /  Mario & Happy)`
 
--Unique USA Puzzles (Rusty's Real Deal Baseball)
+`- 2 unique JPN puzzle IDs (Daigasso! Band Brothers P / Rusty's Real Deal Baseball)`
 
--Unique KOR Puzzles (Rusty's Real Deal Baseball)
+`- 1 unique KOR puzzle ID (Rusty's Real Deal Baseball)`
 
--With a total of 1833 puzzle pieces + 45 limited-time events puzzles pieces 
+`- 57 Puzzles available on EUR and USA Mii Plaza`
 
+ **Total: 1878 puzzle pieces**
 
-Thanks to tastymeatball for the original EU file and help, you can see more on his website http://wiiucodes.ddnss.eu to access needs a IPv6 (use Cloudflare IPv6 gateway https://one.one.one.one/)
+Thanks to **tastymeatball** (check out this [website](http://wiiucodes.ddnss.eu)) and **benny4720** (check out this [guide](https://docs.google.com/document/d/1rJqhJRl9Q98n97QjsYJONY0izU4e0djyqnJt1unp5vQ/edit?usp=sharing))
 
+## How to Install:
 
-# How to Install:
+Go to releases and download the file from the **same region** as your 3DS/Mii Plaza
 
-Go to releases and download the file from the same region that your Mii Plaza
+Make sure StreetPass & SpotPass are enabled in Mii plaza
 
-Ensure StreetPass & SpotPass are enabled in Mii plaza
-
-Copy files to a new folder on the SD card, let's call it "Spotpass Data"
+Copy files to a new folder on the SD card
 
 Go to FBI and select SD then go to the folder you copied
 
@@ -33,7 +33,12 @@ Go back to FBI's main menu and select EXT Save data
 
 Search for StreetPass Mii Plaza then browse SpotPass data
 
-Select current directory and then paste (Replace all files if asked)
+Select current directory and then paste (replace all files if asked)
 
-### For any questions or more info, you can check this Discord server https://discord.gg/tZ96bgM9uT
+#
+### **P.S.** 
+#### The BOSS data gives you ***one piece*** from a random puzzle
+#### To complete the rest, you’ll need to *collect pieces via StreetPass*
+
+For any questions or more info, you can check this Discord server: https://discord.gg/tZ96bgM9uT
 
