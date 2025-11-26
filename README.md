@@ -15,7 +15,7 @@ Includes **all available puzzles** with unique IDs
 
  **Total: 1878 puzzle pieces**
 
-Thanks to **tastymeatball** (check out this [website](http://wiiucodes.ddnss.eu)) and **benny4720** (check out this [guide](https://docs.google.com/document/d/1rJqhJRl9Q98n97QjsYJONY0izU4e0djyqnJt1unp5vQ/edit?usp=sharing))
+Thanks to **benny4720** (check out this [guide](https://docs.google.com/document/d/1rJqhJRl9Q98n97QjsYJONY0izU4e0djyqnJt1unp5vQ/edit?usp=sharing)) and **tastymeatball** for the custom BOSS (check out this [website](http://wiiucodes.ddnss.eu) - use IPv6)
 
 ## How to Install:
 
