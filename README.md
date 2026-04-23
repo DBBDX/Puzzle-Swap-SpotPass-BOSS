@@ -5,7 +5,7 @@ Includes **all available puzzles** with unique IDs
 
 `BOSS data:`
 
-`- 3 unique limited-time event puzzle IDs (ANAでDS / マックでDS ビッグマック /  Mario & Happy)`
+`- 3 unique limited-time event puzzle IDs (ANAでDS / マックでDS ビッグマック / Mario & Happy)`
 
 `- 2 unique JPN puzzle IDs (Daigasso! Band Brothers P / Rusty's Real Deal Baseball)`
 
