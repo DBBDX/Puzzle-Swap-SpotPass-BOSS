@@ -40,5 +40,6 @@ Select current directory and then paste (replace all files if asked)
 #### The BOSS data gives you ***one piece*** from a random puzzle
 #### To complete the rest, you’ll need to *collect pieces via StreetPass*
 
+#
 For any questions or more info, you can check this Discord server: https://discord.gg/tZ96bgM9uT
 
