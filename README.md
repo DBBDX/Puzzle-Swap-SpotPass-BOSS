@@ -1,5 +1,5 @@
  # Puzzle-Swap-SpotPass-BOSS
-Edited SpotPass BOSS files for the Nintendo 3DS game StreetPass Mii Plaza: *Puzzle Swap* 
+Custom SpotPass BOSS files for the Nintendo 3DS game StreetPass Mii Plaza: *Puzzle Swap* 
 
 Includes **all available puzzles** with unique IDs
 
@@ -14,8 +14,6 @@ Includes **all available puzzles** with unique IDs
 `- 57 Puzzles available on EUR and USA Mii Plaza`
 
  **Total: 1878 puzzle pieces**
-
-Thanks to **benny4720** (check out this [guide](https://docs.google.com/document/d/1rJqhJRl9Q98n97QjsYJONY0izU4e0djyqnJt1unp5vQ/edit?usp=sharing)) and **tastymeatball** for the custom BOSS (check out this [website](http://wiiucodes.ddnss.eu) - use IPv6)
 
 ## How to Install:
 
@@ -41,5 +39,8 @@ Select current directory and then paste (replace all files if asked)
 #### To complete the rest, you’ll need to *collect pieces via StreetPass*
 
 #
-For any questions or more info, you can check this Discord server: https://discord.gg/tZ96bgM9uT
+
+Thanks to **benny4720** (check out this [guide](https://docs.google.com/document/d/1rJqhJRl9Q98n97QjsYJONY0izU4e0djyqnJt1unp5vQ/edit?usp=sharing)) and **tastymeatball** for the custom BOSS (check out this [website](http://wiiucodes.ddnss.eu) - use IPv6)
+
+For any questions or more info, you can join this Discord server: https://discord.gg/tZ96bgM9uT
 
