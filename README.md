@@ -23,7 +23,7 @@ Go to releases and download the file from the **same region** as your 3DS/Mii Pl
 
 Make sure StreetPass & SpotPass are enabled in Mii plaza
 
-Copy files to a new folder on the SD card
+Copy files to a new folder on the SD card **(if you’re using an FTP client, be sure to change the FTP transfer type from automatic to binary)**
 
 Go to FBI and select SD then go to the folder you copied
 
