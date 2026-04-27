@@ -40,7 +40,7 @@ Select current directory and then paste (replace all files if asked)
 
 #
 
-Thanks to **benny4720** (check out this [guide](https://docs.google.com/document/d/1rJqhJRl9Q98n97QjsYJONY0izU4e0djyqnJt1unp5vQ/edit?usp=sharing)) and **tastymeatball** for the custom BOSS (check out this [website](http://wiiucodes.ddnss.eu) - use IPv6)
+Thanks to **benny4720** (check out this [guide](https://docs.google.com/document/d/1rJqhJRl9Q98n97QjsYJONY0izU4e0djyqnJt1unp5vQ/edit?usp=sharing)) and **tastymeatball** for the original custom BOSS files (check out this [website](http://wiiucodes.ddnss.eu) - use IPv6)
 
 For any questions or more info, you can join this Discord server: https://discord.gg/tZ96bgM9uT
 
